@@ -11,7 +11,7 @@ It's been a while since I last update my #100DaysOfCloud progress so I decided t
 
 ## Game Plan
 
-I found this [great tutorial](https://serverless-stack.com/) on creating serverless applications in AWS. My plan is to follow up with the tutorial and create my fist serverless application a week.
+I found this [great tutorial](https://serverless-stack.com/) on creating serverless applications in AWS. I plan to follow up with the tutorial and create my first serverless application in a week.
 
 ## Social Proof
 

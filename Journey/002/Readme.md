@@ -8,4 +8,4 @@ I spent most of my time reading [this guide provided by Serverless Stack](https:
 
 ## Social Proof
 
-[link](link)
+[link](https://twitter.com/kiru180815/status/1316200719079272448)

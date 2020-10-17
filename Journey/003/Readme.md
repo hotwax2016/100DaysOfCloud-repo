@@ -10,4 +10,4 @@ Today was all about learning Layers in AWS lambda. Layers used to centrally mana
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://twitter.com/kiru180815/status/1317380857515053056)
